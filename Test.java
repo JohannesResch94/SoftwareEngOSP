@@ -8,8 +8,8 @@ public class test {
 	}
 	
 public int addition(int k, int l){
-	//TODO
-	return;
+	
+	return (k+l);
 	}
 	
 public int multi(int k, int l){
