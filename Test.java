@@ -9,7 +9,7 @@ public class test {
 	
 public int addition(int k, int l){
 	
-	return (k+l);
+	return (k + 2);
 	}
 	
 public int multi(int k, int l){
